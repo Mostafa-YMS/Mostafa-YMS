@@ -71,7 +71,6 @@ A selection of public projects across frontend applications, backend APIs, and A
 | --- | --- | --- |
 | [Notes-back](https://github.com/Mostafa-YMS/Notes-back) | Backend | Node.js and Express API using MySQL and Sequelize, with models for users, notes, media, receivers, and note types. |
 | [Task-Management-node](https://github.com/Mostafa-YMS/Task-Management-node) | Backend | TypeScript and Express REST API for task listing, searching, creation, updates, and deletion. |
-| [mini-rag](https://github.com/Mostafa-YMS/mini-rag) | AI / Backend | Python and FastAPI RAG prototype covering document processing, chunking, embeddings, and vector search. |
 | [UBus](https://github.com/Mostafa-YMS/UBus) | Full-stack application | Team-built public transportation platform. The project covers passenger and driver workflows, routes and stations, destination search, bus tracking, and administration. |
 | [Portfolio](https://github.com/Mostafa-YMS/Portfolio) | Frontend / Next.js | Personal portfolio built with Next.js App Router, TypeScript, and Tailwind CSS, with typed content, project case studies, and responsive UI. |
 | [DBMS](https://github.com/Mostafa-YMS/DBMS) | Systems / Shell | Bash and Zenity educational database-management prototype with file-based storage and basic table operations. |
