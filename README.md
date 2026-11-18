@@ -65,16 +65,18 @@ Worked across frontend and backend integration in enterprise applications: reusa
 
 ## Selected public repositories
 
-| Project | What it demonstrates |
-| --- | --- |
-| [mini-rag](https://github.com/Mostafa-YMS/mini-rag) | A Python/FastAPI RAG backend prototype with document processing, chunking, embeddings, and vector search. |
-| [UBus](https://github.com/Mostafa-YMS/UBus) | Team-built transportation web application using React, Django, and PostgreSQL. |
-| [todo-list](https://github.com/Mostafa-YMS/todo-list) | React application organized into page and reusable component layers, with API-related workflows and load-more behavior. |
-| [DBMS](https://github.com/Mostafa-YMS/DBMS) | A Bash/Zenity educational database-management prototype with file-based storage and basic table operations. |
-| [tic-tac-toe](https://github.com/Mostafa-YMS/tic-tac-toe) | A small React game project. |
+A selection of public projects across frontend applications, backend APIs, and AI-oriented development.
 
-The public repositories are a mix of independent and team/learning projects. Please see each repository's README for its scope and current limitations.
+| Project | Area | What it demonstrates |
+| --- | --- | --- |
+| [Notes-back](https://github.com/Mostafa-YMS/Notes-back) | Backend | Node.js and Express API using MySQL and Sequelize, with models for users, notes, media, receivers, and note types. |
+| [Task-Management-node](https://github.com/Mostafa-YMS/Task-Management-node) | Backend | TypeScript and Express REST API for task listing, searching, creation, updates, and deletion. |
+| [mini-rag](https://github.com/Mostafa-YMS/mini-rag) | AI / Backend | Python and FastAPI RAG prototype covering document processing, chunking, embeddings, and vector search. |
+| [UBus](https://github.com/Mostafa-YMS/UBus) | Full-stack application | Team-built public transportation platform. The project covers passenger and driver workflows, routes and stations, destination search, bus tracking, and administration. |
+| [Portfolio](https://github.com/Mostafa-YMS/Portfolio) | Frontend / Next.js | Personal portfolio built with Next.js App Router, TypeScript, and Tailwind CSS, with typed content, project case studies, and responsive UI. |
+| [DBMS](https://github.com/Mostafa-YMS/DBMS) | Systems / Shell | Bash and Zenity educational database-management prototype with file-based storage and basic table operations. |
 
+These repositories represent different stages and scopes of my work, including independent and team projects. Please refer to each repository for its implementation details and current limitations.
 ## Currently exploring
 
 - Deeper JavaScript runtime, browser, and Node.js internals.
