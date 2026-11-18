@@ -39,9 +39,9 @@ My professional work includes private company projects. I describe that experien
 
 **State, data & forms:** TanStack Query, Zustand, React Hook Form, Yup
 
-**Backend:** Node.js, Express, NestJS, Django, REST APIs
+**Backend:** Node.js, Express, NestJS, REST APIs
 
-**Data & messaging:** MySQL, PostgreSQL, MongoDB, Sequelize, RabbitMQ
+**Data & messaging:** MySQL, PostgreSQL, Sequelize, RabbitMQ
 
 **Real-time & integrations:** Socket.IO, streaming APIs, third-party API integration
 
