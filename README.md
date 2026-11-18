@@ -2,9 +2,9 @@
 
 # Mostafa Youssef
 
-### Frontend Engineer | React · Next.js · TypeScript · AI-Powered Products
+### Software Engineer | Full-Stack Development · React · Next.js · Node.js · NestJS
 
-Building production web experiences, complex interfaces, and AI-enabled product workflows.
+Building end-to-end web products — from thoughtful user experiences to backend services, APIs, and real-time workflows.
 
 [GitHub](https://github.com/Mostafa-YMS)
 
@@ -14,45 +14,56 @@ Building production web experiences, complex interfaces, and AI-enabled product 
 
 ## About
 
-I'm a frontend-focused software engineer with around four years of experience building and improving web applications, including AI-powered products and enterprise platforms.
+I'm a software engineer with around four years of professional experience building and shipping web applications, AI-powered products, and enterprise platforms.
 
-My core strengths are **React, Next.js, TypeScript, frontend architecture, and complex product UI**. I enjoy turning complicated workflows into interfaces that are maintainable, responsive, and clear to use.
+I work across the stack, with substantial hands-on experience in both **frontend engineering and backend development**. On the frontend, I build complex product interfaces with React, Next.js, and TypeScript. On the backend, I've worked with Node.js, Express, NestJS, relational databases, ORMs, message queues, real-time communication, and authentication/authorization workflows.
 
-- Build reusable UI systems and data-heavy application screens.
-- Implement interactive workflows, dynamic forms, API integrations, and state management.
-- Work on streaming AI chat experiences and asynchronous UI states.
-- Build visual editing experiences with slide/component operations and optimistic updates.
-- Handle Arabic/English localization, RTL layouts, and SSR/hydration issues.
-- Debug integration problems across application code and UI libraries.
+I enjoy owning features end to end: understanding the product requirement, shaping the data and API flow, implementing the interface, handling asynchronous and real-time behavior, and debugging issues across system boundaries.
+
+- Design and build reusable frontend systems and complex interactive experiences.
+- Develop backend APIs and application services with Node.js, Express, and NestJS.
+- Work with relational databases and data-access layers using MySQL, PostgreSQL, Sequelize, and related tools.
+- Implement asynchronous workflows and service communication with RabbitMQ.
+- Build real-time features using Socket.IO.
+- Implement authentication and authorization flows, including temporary access mechanisms for controlled, time-limited interactions.
+- Integrate AI-powered workflows, streaming responses, and dynamic application state.
+- Deliver Arabic/English localization, RTL interfaces, and robust SSR-enabled applications.
 
 My professional work includes private company projects. I describe that experience at a high level and do not publish proprietary source code, internal data, or confidential implementation details.
 
-## Core toolkit
+## Technical toolkit
 
-**Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS  
-**UI and styling:** Material UI, Tailwind CSS, HeroUI  
-**State and forms:** TanStack Query, Zustand, React Hook Form, Yup  
-**Interactive interfaces:** React Flow, drag-and-drop, rich UI workflows  
-**Additional experience:** Node.js, Python, Django, PostgreSQL, MongoDB, Docker, Git, Linux
+**Languages:** JavaScript, TypeScript, Python, SQL
 
-My primary specialization is frontend engineering. The additional technologies reflect project exposure and ongoing learning, rather than a claim of equal depth across every area.
+**Frontend:** React, Next.js, HTML, CSS, Material UI, Tailwind CSS, HeroUI
 
-## Selected work
+**State, data & forms:** TanStack Query, Zustand, React Hook Form, Yup
 
-### Professional product engineering
+**Backend:** Node.js, Express, NestJS, Django, REST APIs
 
-**AI-powered productivity products**  
-Contributed to production web applications with AI-oriented workflows, including streaming chat UI, API integration, asynchronous states, and product-interface improvements.
+**Data & messaging:** MySQL, PostgreSQL, MongoDB, Sequelize, RabbitMQ
 
-**Interactive presentation editor**  
-Implemented editor workflows involving slide and component layout, component CRUD, slide CRUD, and optimistic slide navigation/state updates.
+**Real-time & integrations:** Socket.IO, streaming APIs, third-party API integration
 
-**Enterprise application modernization**  
-Worked on improving React/Next.js applications through reusable components, complex forms, authentication flows, API integration, Arabic/English localization, RTL layout consistency, and SSR/hydration debugging.
+**Tools & practices:** Git, Linux, Docker, application debugging, frontend architecture, API design, authentication and authorization
+
+## Professional engineering highlights
+
+### AI-powered products
+Contributed to production applications with AI-oriented workflows, including streaming chat interfaces, asynchronous request handling, API integration, and coordinated frontend state. Worked on product experiences where real-time updates and clear loading, error, and interaction states are important.
+
+### Backend services and real-time workflows
+Worked on Node.js backend applications using Express and NestJS, with MySQL and Sequelize for persistence. Built and integrated API workflows, asynchronous messaging with RabbitMQ, and real-time communication using Socket.IO. Also implemented temporary authentication and authorization mechanisms to grant controlled access to specific user interactions.
+
+### Interactive presentation editor
+Implemented editor workflows involving slide and component layout, positioning, component and slide CRUD, and optimistic slide navigation/state updates. Worked on the complex interaction and state-management requirements behind a visual editing experience.
+
+### Enterprise application engineering
+Worked across frontend and backend integration in enterprise applications: reusable UI components, authentication flows, dynamic forms, API integration, localization, RTL consistency, and SSR/hydration debugging.
 
 > These are summaries of professional experience, not public repositories. Specific screenshots, architecture details, metrics, and implementation examples should only be shared when approved by the relevant employer.
 
-### Public repositories
+## Selected public repositories
 
 | Project | What it demonstrates |
 | --- | --- |
@@ -64,11 +75,12 @@ Worked on improving React/Next.js applications through reusable components, comp
 
 The public repositories are a mix of independent and team/learning projects. Please see each repository's README for its scope and current limitations.
 
-## What I'm improving
+## Currently exploring
 
-- Deeper understanding of JavaScript runtime and browser internals.
+- Deeper JavaScript runtime, browser, and Node.js internals.
+- Distributed systems concepts, messaging patterns, and reliable asynchronous workflows.
+- Backend architecture, database design, and system design.
 - React and Next.js architecture, rendering, and performance.
-- Backend fundamentals, API design, databases, and system design.
 - Practical RAG architecture, evaluation, and reliable AI-product workflows.
 
 ## Contact
